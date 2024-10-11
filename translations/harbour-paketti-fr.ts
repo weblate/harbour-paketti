@@ -140,7 +140,7 @@
     <message>
         <location filename="../qml/pages/Details.qml" line="65"/>
         <source>The following error was returned: %1.</source>
-        <translation>L’erreur suivante a été renvoyée : %1.</translation>
+        <translation>L’erreur suivante a été renvoyée&#xa0;: %1.</translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="79"/>
@@ -319,7 +319,7 @@
         <location filename="../qml/pages/UpdatedPage.qml" line="87"/>
         <location filename="../qml/pages/UpdatedPage.qml" line="90"/>
         <source>Changelog version %1:</source>
-        <translation>Version du journal des modifications %1 :</translation>
+        <translation>Version du journal des modifications %1&#xa0;:</translation>
     </message>
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="88"/>
@@ -329,12 +329,12 @@
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="91"/>
         <source>– Removed Postnord tracking because of broken API.</source>
-        <translation type="unfinished"></translation>
+        <translation>– Le suivi Postnord a été retiré à cause d&apos;une API cassée.</translation>
     </message>
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="92"/>
         <source>– Fix Posti tracking. Because of degraded public API only basic information can be shown. If you encounter any errors, please open a ticket so they can be fixed for the next release!</source>
-        <translation type="unfinished"></translation>
+        <translation>- Correction du suivi Posti. En raison de l&apos;API publique dégradée, seules les informations de base peuvent être affichées. Si vous rencontrez des erreurs, veuillez ouvrir un billet pour qu&apos;ils puissent être corrigés pour la prochaine version&#x202f;!</translation>
     </message>
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="93"/>
@@ -344,7 +344,7 @@
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="95"/>
         <source>The maintainer of the application is Jyri-Petteri ”ZeiP” Paloposki.</source>
-        <translation>Le mainteneur de l’application est Jyri-Petteri « ZeiP » Paloposki.</translation>
+        <translation>Le mainteneur de l’application est Jyri-Petteri «&#xa0;ZeiP&#xa0;» Paloposki.</translation>
     </message>
 </context>
 <context>
@@ -352,7 +352,7 @@
     <message>
         <location filename="../qml/js/couriers/bring.js" line="52"/>
         <source>%1 × %2 × %3 cm</source>
-        <translation>%1 × %2 × %3 cm</translation>
+        <translation>%1 × %2 × %3&#xa0;cm</translation>
     </message>
 </context>
 <context>
