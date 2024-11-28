@@ -324,7 +324,7 @@
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="88"/>
         <source>– (Only in Harbour) Fixed the Sailjail metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>– Correction des métadonnées Sailjail</translation>
     </message>
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="91"/>
@@ -339,7 +339,7 @@
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="93"/>
         <source>– Updated existing translations, see the about page for credits.</source>
-        <translation type="unfinished"></translation>
+        <translation>– Mise à jour des traductions existantes, voir la page sur les crédits.</translation>
     </message>
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="95"/>
@@ -368,6 +368,7 @@
         <translation>
             <numerusform>il y a %n minute</numerusform>
             <numerusform>il y a %n minutes</numerusform>
+            <numerusform>il y a %n minutes</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -375,6 +376,7 @@
         <source>%n hour(s) ago</source>
         <translation>
             <numerusform>il y a %n heure</numerusform>
+            <numerusform>il y a %n heures</numerusform>
             <numerusform>il y a %n heures</numerusform>
         </translation>
     </message>
