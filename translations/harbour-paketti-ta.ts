@@ -36,7 +36,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>– Juhana Virkkala (original author)</source>
-        <translation>– Juhana Virkkala (original author)</translation>
+        <translation>– சுகானா விர்கலா (அசல் ஆசிரியர்)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="81"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="82"/>
         <source>– Hannu Hirvonen and Åke Engelbrektson (Swedish translation)</source>
-        <translation>– Hannu Hirvonen and Åke Engelbrektson (Swedish translation)</translation>
+        <translation>– ஹன்னு ஹிர்வோனென் மற்றும் Åke angelbrektson (ஸ்வீடிஷ் மொழிபெயர்ப்பு)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="83"/>
@@ -352,7 +352,7 @@
     <message>
         <location filename="../qml/js/couriers/bring.js" line="52"/>
         <source>%1 × %2 × %3 cm</source>
-        <translation>%1 × %2 × %3 செ.மீ.</translation>
+        <translation>%1 × %2 × %3 செமீ</translation>
     </message>
 </context>
 <context>
