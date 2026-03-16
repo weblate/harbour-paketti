@@ -61,7 +61,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>– Allan Nordhøy (Norwegian Bokmål translation)</source>
-        <translation>– Allan Nordhøy (norsk oversettelse)</translation>
+        <translation>– Allan Nordhøy og Frank Paul Silye (norsk bokmål oversettelse)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="86"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="107"/>
         <source>Author does not take any responsibility for the information provided by the application. This is not an official application for the couriers.</source>
-        <translation type="unfinished">Programutvikleren tar ikke ansvar i fall programmet viser uriktig informasjon. Dette er ikke et offisielt program for noen av fraktfirmaene.</translation>
+        <translation>Utvikleren påtar seg intet ansvar for informasjonen som gis i applikasjonen. Dette er ikke en offisiell applikasjon for fraktselskapene.</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     <message>
         <location filename="../qml/pages/BarCodePage.qml" line="53"/>
         <source>Read the barcode by keeping barcode scanner perpendicular to the viewing screen, about 15–20 cm away from your phone. If you can not read code try to change distance.</source>
-        <translation type="unfinished">Les inn strekkoden ved å holde strekkodeskanneren vinkelrett mot skjermen, omtrent 15-20 cm unna enheten. Prøv å endre avstanden hvis du ikke kan lese koden.</translation>
+        <translation>Les av strekkoden ved å holde strekkodeleseren vinkelrett på skjermen, ca. 15–20 cm unna telefonen. Hvis koden ikke kan leses av, prøv å endre avstanden.</translation>
     </message>
 </context>
 <context>
@@ -102,7 +102,7 @@
     <message>
         <location filename="../qml/pages/DescDialog.qml" line="18"/>
         <source>Enter short description of item %1</source>
-        <translation type="unfinished">Skriv inn kort beskrivelse av forsendelsen %1</translation>
+        <translation>Skriv inn kort beskrivelse av forsendelsen %1</translation>
     </message>
     <message>
         <location filename="../qml/pages/DescDialog.qml" line="31"/>
@@ -120,7 +120,7 @@
     <message>
         <location filename="../qml/pages/Details.qml" line="65"/>
         <source>No items were found with the item code you provided</source>
-        <translation type="unfinished">Fant ingen forsendelser med forsendelseskoden du angav</translation>
+        <translation>Ingen treff ble funnet på den oppgitte sporingskoden</translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="65"/>
@@ -135,7 +135,7 @@
 - Forsendelsen har ikke blitt innlevert.
 - Forsendelsen har ikke blitt lagt til i systemet.
 - Forsendelsen ble postlagt for lege siden, og har ellerede blitt fjernet fra fraktfirmasystemet.
-- Problemer vedrørende systemet eller forsendelsen.</translation>
+- Problemer vedrørende systemet eller forsendelsen</translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="65"/>
@@ -260,7 +260,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="268"/>
         <source>Start by choosing a courier and entering the tracking code in the box above. Tracked shipments will be saved automatically</source>
-        <translation>Start ved å velge fraktfirma og skriv inn sporingskoden ovenfor. Forsendelser med sporings vil bli lagret automatisk.</translation>
+        <translation>Start ved å velge fraktfirma og skriv inn sporingskoden ovenfor. Sporede forsendelser vil bli lagret automatisk</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="373"/>
@@ -280,7 +280,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="386"/>
         <source>Show barcode</source>
-        <translation type="unfinished">Vis strekkode</translation>
+        <translation>Vis strekkode</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="390"/>
@@ -295,7 +295,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="398"/>
         <source>Remove item</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern oppføringen</translation>
     </message>
 </context>
 <context>
@@ -334,7 +334,7 @@
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="92"/>
         <source>– Fix Posti tracking. Because of degraded public API only basic information can be shown. If you encounter any errors, please open a ticket so they can be fixed for the next release!</source>
-        <translation>– Fikset Posti-sporing. Som følge av degradert offentlig API kan kun grunnleggende info vises. Hvis du støter på feil kan du åpne en feilrapport slik at de kan fikses i neste utgivelse.</translation>
+        <translation>– Fiks av Posti-sporing. På grunn av et begrenset offentlig API kan kun grunnleggende informasjon vises. Hvis du opplever feil, vennligst opprett en sak («ticket») slik at de kan rettes til neste versjon!</translation>
     </message>
     <message>
         <location filename="../qml/pages/UpdatedPage.qml" line="93"/>
