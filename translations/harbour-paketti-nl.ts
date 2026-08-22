@@ -31,7 +31,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
         <source>– Jyri-Petteri ”ZeiP” Paloposki (maintainer)</source>
-        <translation>– Jyri-Petteri ”ZeiP” Paloposki (beheerder)</translation>
+        <translation>– Jyri-Petteri ‘ZeiP’ Paloposki (beheerder)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
@@ -76,7 +76,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="91"/>
         <source>GitHub (source codes and issues)</source>
-        <translation>GitHub (broncode en &apos;issues&apos;)</translation>
+        <translation>GitHub (broncode en ‘issues’)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="107"/>
